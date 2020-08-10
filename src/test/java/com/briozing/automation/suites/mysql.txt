@@ -1,7 +1,0 @@
-users :- id (pk), name ,email
-1, sanket , sanket@gmail
-department :- id,user_id(fk), dept_name
-0, 1, engineering
-
-Select name, email, dept_name from users, department where users.id=department.userid ;
-

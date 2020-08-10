@@ -1,0 +1,8 @@
+{
+  "queryText": "",
+  "intentType": "LOGIN",
+  "user": {
+    "userName": "ActTest001",
+    "password": "Password"
+  }
+}

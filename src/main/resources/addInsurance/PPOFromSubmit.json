@@ -1,0 +1,15 @@
+{
+  "queryText": "Insurance Form Submitted",
+  "intentType": "ADD_INSURANCE_FORM_SUBMIT",
+  "submitInsuranceInformation": {
+    "requestAction": "ADD",
+    "planType": "PPO",
+    "planLevel": "2",
+    "relationToPatient": "Brother",
+    "relatedAccounts": [
+      {
+        "clientRefNumber": "Test001"
+      }
+    ]
+  }
+}

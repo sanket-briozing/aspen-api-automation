@@ -1,0 +1,29 @@
+{
+  "queryText": "Insurance Form Submitted",
+  "intentType": "ADD_INSURANCE_FORM_SUBMIT",
+  "submitInsuranceInformation": {
+    "requestAction": "ADD",
+    "insurerName": "Jane Doe",
+    "insurerPhone": "334-545-6655",
+    "planType": "Auto Insurance",
+    "insurerAddress": {
+      "line1": "1597 COLE BLVD",
+      "line2": "STE 150",
+      "city": "Lakewood",
+      "state": "CO",
+      "zipCode": "80401",
+      "country": "US"
+    },
+    "relatedAccounts": [
+      {
+        "clientRefNumber": "Test001"
+      }
+    ],
+    "relationToPatient": "Self",
+    "planLevel": "1",
+    "accidentDate": "12-13-1990",
+    "claimNumber": "1234567890",
+    "adjusterName": "Bruce Doe",
+    "adjusterPhone": "334-545-6655"
+  }
+}

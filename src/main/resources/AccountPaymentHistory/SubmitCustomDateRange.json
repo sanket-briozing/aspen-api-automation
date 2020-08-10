@@ -1,0 +1,8 @@
+{
+  "queryText": "Submit Custom Date Range",
+  "intentType": "ACCOUNT_PAYMENTS_USER_SUBMITS_CUSTOM_DATE_RANGE_FOR_ADDITIONAL_PAYMENT",
+  "customDateRangeRequest": {
+    "fromDate": "01-01-2013",
+    "toDate": "06-06-2014"
+  }
+}

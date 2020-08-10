@@ -1,0 +1,30 @@
+{
+  "queryText": "Insurance Form Submitted",
+  "intentType": "ADD_INSURANCE_FORM_SUBMIT",
+  "submitInsuranceInformation": {
+    "requestAction": "ADD",
+    "insurerName": "Jane Doe",
+    "insurerPhone": "334-545-6655",
+    "planType": "HMO",
+    "insurerAddress": {
+      "line1": "1597 COLE BLVD",
+      "line2": "STE 150",
+      "city": "Lakewood",
+      "state": "CO",
+      "zipCode": "80401",
+      "country": "US"
+    },
+    "relatedAccounts": [
+      {
+        "clientRefNumber": "Test001"
+      }
+    ],
+    "relationToPatient": "Brother",
+    "effectiveFrom": "12-13-1991",
+    "effectiveTo": "12-13-1992",
+    "planLevel": "2",
+    "subscriberName": "Jane Doe",
+    "subscriberNumber": "1234567890",
+    "groupNumber": "1234567890"
+  }
+}
